@@ -4,6 +4,8 @@ In today’s cybersecurity landscape, monitoring both RDP (Remote Desktop Protoc
 
 By the end of this guide, you’ll have a single dashboard that visually represents failed and successful authentication attempts for both RDP and SSH, helping you identify patterns, track access points, and stay one step ahead of potential security threats.
 
+![Alt text](https://raw.githubusercontent.com/Virus192/Day-17-Building-a-Comprehensive-Dashboard-for-RDP-SSH-Authentication-Monitoring/refs/heads/main/Images/photo_6003690240981714183_w.jpg)
+
 ## Step 1: Setting Up RDP Failed Authentication Monitoring
 
 To get started, log into your Elastic web GUI and navigate to the Maps section by clicking on the hamburger menu in the top left corner. This is where we will build our visualizations.
