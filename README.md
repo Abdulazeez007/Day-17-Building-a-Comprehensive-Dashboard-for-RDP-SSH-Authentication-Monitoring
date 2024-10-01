@@ -97,6 +97,13 @@ At a glance, you can see:
 - The countries from which these attempts originated.
 - The total number of attempts and their outcomes (successful or failed).
 
+  ![Alt text](https://raw.githubusercontent.com/Virus192/Day-17-Building-a-Comprehensive-Dashboard-for-RDP-SSH-Authentication-Monitoring/refs/heads/main/Images/photo_6003690240981714181_w.jpg)
+  **SSH Activity**
+
+  ![Alt text](https://raw.githubusercontent.com/Virus192/Day-17-Building-a-Comprehensive-Dashboard-for-RDP-SSH-Authentication-Monitoring/refs/heads/main/Images/photo_6003690240981714182_w.jpg)
+  **RDP Activity**
+
+
 ## Step 5: Save Your Work
 
 Before wrapping up, double-check that everything is saved correctly. This ensures you don’t lose any progress as you fine-tune your dashboard. Now you should have two primary dashboards — one for failed authentication attempts and another for successful ones — covering both RDP and SSH activity.
